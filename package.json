@@ -1,0 +1,23 @@
+{
+  "name": "rocketseat-explorer-challenge-stage06-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielpdb/rocketseat-explorer-challenge-stage06-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielpdb/rocketseat-explorer-challenge-stage06-02/issues"
+  },
+  "homepage": "https://github.com/gabrielpdb/rocketseat-explorer-challenge-stage06-02#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
