@@ -67,6 +67,7 @@ header .search input {
   border-radius: 0.5rem;
   border: none;
   flex-grow: 0.5;
+  color: var(--text-color);
 }
 
 header .search input::placeholder {
@@ -133,9 +134,9 @@ thead th:last-child {
   border-top-right-radius: 1.2rem;
 }
 
-tbody {
+/* tbody {
   height: 68.8rem;
-}
+} */
 
 tbody tr {
   border-bottom: 1px solid #4a808c;
